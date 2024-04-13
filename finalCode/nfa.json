@@ -3,37 +3,38 @@
 "S6":
    {
        "isTerminatingState":"False",
-       "d":"S7"
+       "2":"S7"
    },
 "S7":
    {
        "isTerminatingState":"False",
        "@":"S9"
    },
-"S0":
-   {
-       "isTerminatingState":"False",
-       "a":"S1"
-   },
-"S1":
-   {
-       "isTerminatingState":"False",
-       "@":"S2"
-   },
 "S2":
    {
        "isTerminatingState":"False",
-       "b":"S3"
+       "1":"S3"
    },
 "S3":
    {
        "isTerminatingState":"False",
-       "@":"S4"
+       "@":"S5"
+   },
+"S0":
+   {
+       "isTerminatingState":"False",
+       "0":"S1"
+   },
+"S1":
+   {
+       "isTerminatingState":"False",
+       "@":"S5"
    },
 "S4":
    {
        "isTerminatingState":"False",
-       "c":"S5"
+       "@":"S2",
+       "@":"S0"
    },
 "S5":
    {
@@ -44,7 +45,7 @@
    {
        "isTerminatingState":"False",
        "@":"S6",
-       "@":"S0"
+       "@":"S4"
    },
 "S9":
    {

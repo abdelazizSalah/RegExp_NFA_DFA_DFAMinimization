@@ -1,15 +1,19 @@
 {
-"startingState":"S8S0S6",
-"S8S0S6":
+"startingState":"S8S4S6S0S2",
+"S8S4S6S0S2":
    {
        "isTerminatingState":"False",
-       "a":"S1",
-       "d":"S7"
+       "2":"S7",
+       "0":"S1",
+       "1":"S3"
    },
-"S7":
+"":
    {
        "isTerminatingState":"False"   },
-"S1":
+"":
+   {
+       "isTerminatingState":"False"   },
+"":
    {
        "isTerminatingState":"False"   }
 }
