@@ -1,53 +1,53 @@
 {
-"startingState":"S326",
-"S324":
+"startingState":"S8",
+"S6":
    {
        "isTerminatingState":"False",
-       "2":"S325"
+       "2":"S7"
    },
-"S325":
+"S7":
    {
        "isTerminatingState":"False",
-       "@":"S327"
+       "@":"S9"
    },
-"S320":
+"S2":
    {
        "isTerminatingState":"False",
-       "1":"S321"
+       "1":"S3"
    },
-"S321":
+"S3":
    {
        "isTerminatingState":"False",
-       "@":"S323"
+       "@":"S5"
    },
-"S318":
+"S0":
    {
        "isTerminatingState":"False",
-       "0":"S319"
+       "0":"S1"
    },
-"S319":
+"S1":
    {
        "isTerminatingState":"False",
-       "@":"S323"
+       "@":"S5"
    },
-"S322":
+"S4":
    {
        "isTerminatingState":"False",
-       "@":"S320",
-       "@":"S318"
+       "@":"S2",
+       "@":"S0"
    },
-"S323":
+"S5":
    {
        "isTerminatingState":"False",
-       "@":"S327"
+       "@":"S9"
    },
-"S326":
+"S8":
    {
        "isTerminatingState":"False",
-       "@":"S324",
-       "@":"S322"
+       "@":"S6",
+       "@":"S4"
    },
-"S327":
+"S9":
    {
        "isTerminatingState":"True"   }
 }
