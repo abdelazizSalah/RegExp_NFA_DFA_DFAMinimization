@@ -1,0 +1,15 @@
+{
+"startingState":"S8S0S6",
+"S8S0S6":
+   {
+       "isTerminatingState":"False",
+       "a":"S1",
+       "d":"S7"
+   },
+"S7":
+   {
+       "isTerminatingState":"False"   },
+"S1":
+   {
+       "isTerminatingState":"False"   }
+}
