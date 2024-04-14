@@ -1,18 +1,18 @@
 {
-"startingState":"S308",
-"S308":
+"startingState":"S10",
+"S10":
    {
        "isTerminatingState":"False",
-       "a":"S310S312S309S313"
+       "a":"S15S12S11S14"
    },
-"S310S312S309S313":
+"S15S12S11S14":
    {
        "isTerminatingState":"True",
-       "b":"S310S313S311"
+       "b":"S13S12S15"
    },
-"S310S313S311":
+"S13S12S15":
    {
        "isTerminatingState":"True",
-       "b":"S310S313S311"
+       "b":"S13S12S15"
    }
 }

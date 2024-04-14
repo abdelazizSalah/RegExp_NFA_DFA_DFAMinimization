@@ -1,33 +1,33 @@
 {
-"startingState":"S308",
-"S308":
+"startingState":"S10",
+"S10":
    {
        "isTerminatingState":"False",
-       "a":"S309"
+       "a":"S11"
    },
-"S309":
+"S11":
    {
        "isTerminatingState":"False",
-       "@":"S312"
+       "@":"S14"
    },
-"S310":
+"S12":
    {
        "isTerminatingState":"False",
-       "b":"S311"
+       "b":"S13"
    },
-"S311":
+"S13":
    {
        "isTerminatingState":"False",
-       "@":"S310",
-       "@":"S313"
+       "@":"S12",
+       "@":"S15"
    },
-"S312":
+"S14":
    {
        "isTerminatingState":"False",
-       "@":"S310",
-       "@":"S313"
+       "@":"S12",
+       "@":"S15"
    },
-"S313":
+"S15":
    {
        "isTerminatingState":"True"   }
 }

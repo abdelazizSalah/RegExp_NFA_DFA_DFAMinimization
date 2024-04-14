@@ -1,10 +1,10 @@
 // DFA graph
 digraph {
 	graph [rankdir=LR]
-	S308 [label=S308 shape=circle]
-	S308 -> S310S312S309S313 [label=a]
-	S310S312S309S313 [label=S310S312S309S313 shape=doublecircle]
-	S310S312S309S313 -> S310S313S311 [label=b]
-	S310S313S311 [label=S310S313S311 shape=doublecircle]
-	S310S313S311 -> S310S313S311 [label=b]
+	S10 [label=S10 shape=circle]
+	S10 -> S15S12S11S14 [label=a]
+	S15S12S11S14 [label=S15S12S11S14 shape=doublecircle]
+	S15S12S11S14 -> S13S12S15 [label=b]
+	S13S12S15 [label=S13S12S15 shape=doublecircle]
+	S13S12S15 -> S13S12S15 [label=b]
 }
