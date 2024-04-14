@@ -1,33 +1,103 @@
 {
-"startingState":"S10",
-"S10":
+"startingState":"S270",
+"S260":
    {
        "isTerminatingState":"False",
-       "a":"S11"
+       "z":"S261"
    },
-"S11":
+"S261":
    {
        "isTerminatingState":"False",
-       "@":"S14"
+       "@":"S266"
    },
-"S12":
+"S264":
    {
        "isTerminatingState":"False",
-       "b":"S13"
+       "o":"S265"
    },
-"S13":
+"S265":
    {
        "isTerminatingState":"False",
-       "@":"S12",
-       "@":"S15"
+       "@":"S267"
    },
-"S14":
+"S262":
    {
        "isTerminatingState":"False",
-       "@":"S12",
-       "@":"S15"
+       "u":"S263"
    },
-"S15":
+"S263":
+   {
+       "isTerminatingState":"False",
+       "@":"S267"
+   },
+"S266":
+   {
+       "isTerminatingState":"False",
+       "@":"S264",
+       "@":"S262"
+   },
+"S267":
+   {
+       "isTerminatingState":"False",
+       "@":"S268"
+   },
+"S268":
+   {
+       "isTerminatingState":"False",
+       "z":"S269"
+   },
+"S269":
+   {
+       "isTerminatingState":"False",
+       "@":"S271"
+   },
+"S252":
+   {
+       "isTerminatingState":"False",
+       "z":"S253"
+   },
+"S253":
+   {
+       "isTerminatingState":"False",
+       "@":"S254"
+   },
+"S254":
+   {
+       "isTerminatingState":"False",
+       "i":"S255"
+   },
+"S255":
+   {
+       "isTerminatingState":"False",
+       "@":"S256"
+   },
+"S256":
+   {
+       "isTerminatingState":"False",
+       "z":"S257"
+   },
+"S257":
+   {
+       "isTerminatingState":"False",
+       "@":"S258"
+   },
+"S258":
+   {
+       "isTerminatingState":"False",
+       "o":"S259"
+   },
+"S259":
+   {
+       "isTerminatingState":"False",
+       "@":"S271"
+   },
+"S270":
+   {
+       "isTerminatingState":"False",
+       "@":"S260",
+       "@":"S252"
+   },
+"S271":
    {
        "isTerminatingState":"True"   }
 }
