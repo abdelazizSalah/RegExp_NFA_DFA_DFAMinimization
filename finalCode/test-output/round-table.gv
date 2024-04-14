@@ -1,13 +1,17 @@
-// DFA graph
+// Minimized DFA graph
 digraph {
 	graph [rankdir=LR]
-	"S270,S260,S252" [label="S270,S260,S252" shape=circle]
-	"S270,S260,S252" -> S254S253 [label=z]
-	S254S253 [label=S254S253 shape=circle]
-	S254S253 -> S256S255 [label=i]
-	S256S255 [label=S256S255 shape=circle]
-	S256S255 -> S257S258 [label=z]
-	S257S258 [label=S257S258 shape=circle]
-	S257S258 -> S271S259 [label=o]
-	S271S259 [label=S271S259 shape=doublecircle]
+	S110S116S126 [label=S110S116S126 shape=circle]
+	S110S116S126 -> S111S112 [label=h]
+	S110S116S126 -> S118S120S122S117 [label=s]
+	S111S112 [label=S111S112 shape=circle]
+	S111S112 -> S114S113 [label=u]
+	S118S120S122S117 [label=S118S120S122S117 shape=circle]
+	S118S120S122S117 -> S123S121S124 [label=n]
+	S114S113 [label=S114S113 shape=circle]
+	S114S113 -> S127S115 [label=s]
+	S123S121S124 [label=S123S121S124 shape=circle]
+	S123S121S124 -> S125S127 [label=y]
+	S127S115 [label=S127S115 shape=doublecircle]
+	S125S127 [label=S125S127 shape=doublecircle]
 }
