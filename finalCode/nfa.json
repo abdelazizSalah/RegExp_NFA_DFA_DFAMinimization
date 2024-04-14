@@ -1,125 +1,33 @@
 {
-"startingState":"S202",
-"S202":
+"startingState":"S308",
+"S308":
    {
        "isTerminatingState":"False",
-       "a":"S203"
+       "a":"S309"
    },
-"S203":
+"S309":
    {
        "isTerminatingState":"False",
-       "@":"S204"
+       "@":"S312"
    },
-"S204":
+"S310":
    {
        "isTerminatingState":"False",
-       "b":"S205"
+       "b":"S311"
    },
-"S205":
+"S311":
    {
        "isTerminatingState":"False",
-       "@":"S210"
+       "@":"S310",
+       "@":"S313"
    },
-"S208":
+"S312":
    {
        "isTerminatingState":"False",
-       "d":"S209"
+       "@":"S310",
+       "@":"S313"
    },
-"S209":
-   {
-       "isTerminatingState":"False",
-       "@":"S211"
-   },
-"S206":
-   {
-       "isTerminatingState":"False",
-       "c":"S207"
-   },
-"S207":
-   {
-       "isTerminatingState":"False",
-       "@":"S211"
-   },
-"S210":
-   {
-       "isTerminatingState":"False",
-       "@":"S208",
-       "@":"S206"
-   },
-"S211":
-   {
-       "isTerminatingState":"False",
-       "@":"S224"
-   },
-"S222":
-   {
-       "isTerminatingState":"False",
-       "d":"S223"
-   },
-"S223":
-   {
-       "isTerminatingState":"False",
-       "@":"S225"
-   },
-"S218":
-   {
-       "isTerminatingState":"False",
-       "c":"S219"
-   },
-"S219":
-   {
-       "isTerminatingState":"False",
-       "@":"S221"
-   },
-"S214":
-   {
-       "isTerminatingState":"False",
-       "b":"S215"
-   },
-"S215":
-   {
-       "isTerminatingState":"False",
-       "@":"S217"
-   },
-"S212":
-   {
-       "isTerminatingState":"False",
-       "a":"S213"
-   },
-"S213":
-   {
-       "isTerminatingState":"False",
-       "@":"S217"
-   },
-"S216":
-   {
-       "isTerminatingState":"False",
-       "@":"S214",
-       "@":"S212"
-   },
-"S217":
-   {
-       "isTerminatingState":"False",
-       "@":"S221"
-   },
-"S220":
-   {
-       "isTerminatingState":"False",
-       "@":"S218",
-       "@":"S216"
-   },
-"S221":
-   {
-       "isTerminatingState":"False",
-       "@":"S225"
-   },
-"S224":
-   {
-       "isTerminatingState":"False",
-       "@":"S222",
-       "@":"S220"
-   },
-"S225":
+"S313":
    {
        "isTerminatingState":"True"   }
 }
