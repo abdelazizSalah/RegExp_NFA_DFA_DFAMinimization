@@ -1,0 +1,18 @@
+{
+"startingState":"",
+"S1189S1182S1186S1184S1188S1190":
+   {
+       "isTerminatingState":"False",
+       "a":"S1194S1192S1199S1191S1196S1198",
+       "b":"S1189S1182S1186S1184S1188S1190"
+   },
+"S1194S1192S1199S1191S1196S1198":
+   {
+       "isTerminatingState":"True",
+       "b":"S1199S1197S1195",
+       "a":"S1199S1197S1195"
+   },
+"S1199S1197S1195":
+   {
+       "isTerminatingState":"True"   }
+}
