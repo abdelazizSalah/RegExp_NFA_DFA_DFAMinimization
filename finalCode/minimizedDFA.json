@@ -1,40 +1,45 @@
 {
-"startingState":"S580S584S582S578S576",
-"S580S584S582S578S576":
+"startingState":"S32S45S38S37S40S30S33S42S34S36S44",
+"S32S45S38S37S40S30S33S42S34S36S44":
    {
-       "isTerminatingState":"False",
-       "c":"S592S586S594S588S585S583S590",
-       "b":"S586S581S594S588S590S579S592S585",
-       "a":"S586S581S594S588S577S590S592S585"
+       "isTerminatingState":"True",
+       "a":"S45S38S37S40S30S31S33S42S34S36S44",
+       "b":"S45S35S38S37S40S42S34S44"
    },
-"S592S586S594S588S585S583S590":
+"S45S38S37S40S30S31S33S42S34S36S44":
    {
-       "isTerminatingState":"False",
-       "f":"S593S595",
-       "d":"S591S595S587",
-       "e":"S589S595S591"
+       "isTerminatingState":"True",
+       "a":"S45S38S37S40S30S31S33S42S34S36S44",
+       "b":"S45S35S38S37S40S42S34S44"
    },
-"S586S581S594S588S590S579S592S585":
+"S45S35S38S37S40S42S34S44":
    {
-       "isTerminatingState":"False",
-       "d":"S591S595S587",
-       "e":"S589S595S591",
-       "f":"S593S595"
+       "isTerminatingState":"True",
+       "a":"S40S45S42S39S43S38",
+       "b":"S45S35S38S37S40S42S34S44"
    },
-"S586S581S594S588S577S590S592S585":
+"S45S38S37S40S30S31S33S42S34S36S44":
    {
-       "isTerminatingState":"False",
-       "d":"S591S595S587",
-       "e":"S589S595S591",
-       "f":"S593S595"
+       "isTerminatingState":"True",
+       "a":"S45S38S37S40S30S31S33S42S34S36S44",
+       "b":"S45S35S38S37S40S42S34S44"
    },
-"S593S595":
+"S45S35S38S37S40S42S34S44":
    {
-       "isTerminatingState":"True"   },
-"S591S595S587":
+       "isTerminatingState":"True",
+       "a":"S40S45S42S39S43S38",
+       "b":"S45S35S38S37S40S42S34S44"
+   },
+"S40S45S42S39S43S38":
    {
-       "isTerminatingState":"True"   },
-"S589S595S591":
+       "isTerminatingState":"True",
+       "b":"S40S45S42S41S43S38",
+       "a":"S40S45S42S39S43S38"
+   },
+"S40S45S42S41S43S38":
    {
-       "isTerminatingState":"True"   }
+       "isTerminatingState":"True",
+       "b":"S40S45S42S41S43S38",
+       "a":"S40S45S42S39S43S38"
+   }
 }

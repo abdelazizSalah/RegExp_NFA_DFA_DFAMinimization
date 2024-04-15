@@ -1,25 +1,25 @@
 {
-"startingState":"S0S8S6",
-"S0S8S6":
+"startingState":"S6S0S8",
+"S6S0S8":
    {
        "isTerminatingState":"False",
-       "a":"S1S2",
-       "d":"S9S7"
+       "d":"S7S9",
+       "a":"S2S1"
    },
-"S1S2":
-   {
-       "isTerminatingState":"False",
-       "b":"S4S3"
-   },
-"S9S7":
+"S7S9":
    {
        "isTerminatingState":"True"   },
-"S4S3":
+"S2S1":
    {
        "isTerminatingState":"False",
-       "c":"S9S5"
+       "b":"S3S4"
    },
-"S9S5":
+"S3S4":
+   {
+       "isTerminatingState":"False",
+       "c":"S5S9"
+   },
+"S5S9":
    {
        "isTerminatingState":"True"   }
 }
