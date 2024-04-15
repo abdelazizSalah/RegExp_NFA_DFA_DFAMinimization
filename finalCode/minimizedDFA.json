@@ -1,33 +1,33 @@
 {
 "startingState":"",
-"S10S28S18":
+"S28S18S10":
    {
        "isTerminatingState":"False",
-       "z":"S11S12S20S22S19S24"
+       "z":"S20S24S22S19S12S11"
    },
-"S14S13":
-   {
-       "isTerminatingState":"False",
-       "z":"S16S15"
-   },
-"S26S25S21":
+"S25S21S26":
    {
        "isTerminatingState":"False",
        "z":"S29S27"
    },
-"S16S15":
+"S14S13":
    {
        "isTerminatingState":"False",
-       "o":"S29S27"
+       "z":"S15S16"
    },
 "S29S27":
    {
        "isTerminatingState":"True"   },
-"S11S12S20S22S19S24":
+"S15S16":
    {
        "isTerminatingState":"False",
-       "i":"S14S13",
-       "u":"S26S25S21",
-       "o":"S26S25S21"
+       "o":"S29S27"
+   },
+"S20S24S22S19S12S11":
+   {
+       "isTerminatingState":"False",
+       "u":"S25S21S26",
+       "o":"S25S21S26",
+       "i":"S14S13"
    }
 }
