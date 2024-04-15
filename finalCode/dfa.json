@@ -1,53 +1,43 @@
 {
-"startingState":"S1272S1264S1266S1271S1270S1268S1276",
-"S1272S1264S1266S1271S1270S1268S1276":
+"startingState":"S10S28S18",
+"S10S28S18":
    {
        "isTerminatingState":"False",
-       "c":"S1274S1273",
-       "b":"S1272S1264S1266S1269S1271S1268S1265S1276",
-       "c":"S1272S1264S1266S1269S1271S1267S1268S1276"
+       "z":"S11S12",
+       "z":"S20S22S19S24",
+       "z":"S11S12S20S22S19S24"
    },
-"S1274S1273":
+"S14S13":
    {
        "isTerminatingState":"False",
-       "d":"S1275S1272S1277"
+       "z":"S16S15"
    },
-"S1272S1264S1266S1269S1271S1268S1265S1276":
+"S26S25S21":
    {
        "isTerminatingState":"False",
-       "c":"S1274S1273",
-       "b":"S1272S1264S1266S1269S1271S1268S1265S1276",
-       "c":"S1272S1264S1266S1269S1271S1267S1268S1276"
+       "z":"S29S27"
    },
-"S1272S1264S1266S1269S1271S1267S1268S1276":
+"S23S26S25":
    {
        "isTerminatingState":"False",
-       "c":"S1274S1273",
-       "b":"S1272S1264S1266S1269S1271S1268S1265S1276",
-       "c":"S1272S1264S1266S1269S1271S1267S1268S1276"
+       "z":"S29S27"
    },
-"S1275S1272S1277":
-   {
-       "isTerminatingState":"True",
-       "c":"S1274S1273"
-   },
-"S1274S1273":
+"S16S15":
    {
        "isTerminatingState":"False",
-       "d":"S1275S1272S1277"
+       "o":"S29S17"
    },
-"S1272S1264S1266S1269S1271S1268S1265S1276":
+"S29S27":
+   {
+       "isTerminatingState":"True"   },
+"S29S17":
+   {
+       "isTerminatingState":"True"   },
+"S11S12S20S22S19S24":
    {
        "isTerminatingState":"False",
-       "c":"S1274S1273",
-       "b":"S1272S1264S1266S1269S1271S1268S1265S1276",
-       "c":"S1272S1264S1266S1269S1271S1267S1268S1276"
-   },
-"S1272S1264S1266S1269S1271S1267S1268S1276":
-   {
-       "isTerminatingState":"False",
-       "c":"S1274S1273",
-       "b":"S1272S1264S1266S1269S1271S1268S1265S1276",
-       "c":"S1272S1264S1266S1269S1271S1267S1268S1276"
+       "i":"S14S13",
+       "u":"S26S25S21",
+       "o":"S23S26S25"
    }
 }
