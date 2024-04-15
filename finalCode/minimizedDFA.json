@@ -1,45 +1,18 @@
 {
-"startingState":"S32S45S38S37S40S30S33S42S34S36S44",
-"S32S45S38S37S40S30S33S42S34S36S44":
+"startingState":"",
+"S1189S1182S1186S1184S1188S1190":
    {
-       "isTerminatingState":"True",
-       "a":"S45S38S37S40S30S31S33S42S34S36S44",
-       "b":"S45S35S38S37S40S42S34S44"
+       "isTerminatingState":"False",
+       "a":"S1194S1192S1199S1191S1196S1198",
+       "b":"S1189S1182S1186S1184S1188S1190"
    },
-"S45S38S37S40S30S31S33S42S34S36S44":
+"S1194S1192S1199S1191S1196S1198":
    {
        "isTerminatingState":"True",
-       "a":"S45S38S37S40S30S31S33S42S34S36S44",
-       "b":"S45S35S38S37S40S42S34S44"
+       "b":"S1199S1197S1195",
+       "a":"S1199S1197S1195"
    },
-"S45S35S38S37S40S42S34S44":
+"S1199S1197S1195":
    {
-       "isTerminatingState":"True",
-       "a":"S40S45S42S39S43S38",
-       "b":"S45S35S38S37S40S42S34S44"
-   },
-"S45S38S37S40S30S31S33S42S34S36S44":
-   {
-       "isTerminatingState":"True",
-       "a":"S45S38S37S40S30S31S33S42S34S36S44",
-       "b":"S45S35S38S37S40S42S34S44"
-   },
-"S45S35S38S37S40S42S34S44":
-   {
-       "isTerminatingState":"True",
-       "a":"S40S45S42S39S43S38",
-       "b":"S45S35S38S37S40S42S34S44"
-   },
-"S40S45S42S39S43S38":
-   {
-       "isTerminatingState":"True",
-       "b":"S40S45S42S41S43S38",
-       "a":"S40S45S42S39S43S38"
-   },
-"S40S45S42S41S43S38":
-   {
-       "isTerminatingState":"True",
-       "b":"S40S45S42S41S43S38",
-       "a":"S40S45S42S39S43S38"
-   }
+       "isTerminatingState":"True"   }
 }
