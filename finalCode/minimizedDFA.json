@@ -1,18 +1,19 @@
 {
 "startingState":"",
-"S1189S1182S1186S1184S1188S1190":
+"S1272S1264S1266S1271S1270S1268S1276":
    {
        "isTerminatingState":"False",
-       "a":"S1194S1192S1199S1191S1196S1198",
-       "b":"S1189S1182S1186S1184S1188S1190"
+       "c":"S1272S1264S1266S1271S1270S1268S1276",
+       "b":"S1272S1264S1266S1271S1270S1268S1276"
    },
-"S1194S1192S1199S1191S1196S1198":
+"S1274S1273":
+   {
+       "isTerminatingState":"False",
+       "d":"S1275S1272S1277"
+   },
+"S1275S1272S1277":
    {
        "isTerminatingState":"True",
-       "b":"S1199S1197S1195",
-       "a":"S1199S1197S1195"
-   },
-"S1199S1197S1195":
-   {
-       "isTerminatingState":"True"   }
+       "c":"S1274S1273"
+   }
 }
