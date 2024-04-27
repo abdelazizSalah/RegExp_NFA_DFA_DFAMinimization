@@ -15,7 +15,7 @@
     7. Converting the NFA to DFA using the Subset Algorithm
     8. Then using dynamic programming (DP) to get the minimized DFA
 
-> check the notebook, it contains the hand analysis images, and the source code of the solution, and feel free to test it, there is a testing cell at the end of the notebook you can test it from there 🫡💓
+> check the notebook in the ./finalCode folder, it contains the hand analysis images, and the source code of the solution, and feel free to test it, there is a testing cell at the end of the notebook you can test it from there 🫡💓
 
 ## Samples of output
 * Regex = 'zizo|(z(u|o)z)' => my nickname btw 😉
