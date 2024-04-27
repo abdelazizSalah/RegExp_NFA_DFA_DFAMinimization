@@ -24,10 +24,6 @@
   ![image](https://github.com/abdelazizSalah/RegExp_NFA_DFA_DFAMinimization/assets/71516308/907aaf38-7dca-4b14-9701-6ed2ae49cd1c)
 * Regex = '((bashohandes)|(Eng)|TA)(3|O|o)mar (S|s)amir we are done+' => our TA name with his title => to get the grades 😂
   ![image](https://github.com/abdelazizSalah/RegExp_NFA_DFA_DFAMinimization/assets/71516308/ec48b9fc-9769-4c31-aa2a-40a240c95356)
-* Regex = "(a|b)zi+
-  ![image](https://github.com/abdelazizSalah/RegExp_NFA_DFA_DFAMinimization/assets/71516308/3ae7d6f6-d4b5-4217-a460-502c6bcd81bd)
-
-
 
 
   
